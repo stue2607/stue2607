@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects related to DevOps and cloud computing
 - 🤔 I’m looking for help with improving my coding skills in Python and HTML
 - 💬 Ask me about anything related to DevOps, web design, App design, Transport or Military
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stue2607) | [Email](stu.e2607@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stue2607)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I competed in cross country at internatial level and was an undefeated boxer in my 30's
 

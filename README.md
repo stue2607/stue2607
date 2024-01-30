@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Stuart Elliott👋
 
-<!--
-**stue2607/stue2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a DevOps Engineer, Transport Manager, Generalist and Veteran!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a website for a client who wants to break into web design agency work
+- 🌱 I’m currently learning Terraform 003 and preparing for my exam
+- 👯 I’m looking to collaborate on open source projects related to DevOps and cloud computing
+- 🤔 I’m looking for help with improving my coding skills in Python and HTML
+- 💬 Ask me about anything related to DevOps, web design, App design, Transport or Military
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stue2607) | [Email](stu.e2607@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I competed in cross country at internatial level and was an undefeated boxer in my 30's
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Motivated and hard working team player with a wealth of knowledge in defence, transport, fitness and DevOps. always keen to learn and take on new challenges.
+

@@ -15,14 +15,15 @@
   - I use Git and GitHub Actions to manage version control and CI/CD pipelines
   - I explore and learn new technologies and frameworks to enhance my skills and knowledge
 - I improve my coding skills in Python and HTML
+  - I took part in the AICore bootcamp in 2023 and graduated in February of 2024
   - I take online courses and tutorials to learn the fundamentals and advanced features of Python and HTML
   - I practice my skills by solving coding challenges and building small projects
   - I seek feedback and help from other coders and mentors to improve my code quality and efficiency
 - Ask me about anything related to DevOps, web design, app design, transport or military
-  - I have over 10 years of experience in defence, transport, fitness and DevOps
+  - I have over 25 years of experience in defence, transport, fitness and DevOps
   - I have a strong background in leadership, management, communication, and problem-solving
   - I have a passion for innovation, creativity, and continuous learning
-- How to reach me: LinkedIn
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/stue2607)
 - Pronouns: he/him
 - Fun fact: I competed in cross country at international level and was an undefeated boxer in my 30's
 

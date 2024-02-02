@@ -57,4 +57,4 @@ The brilliance of DevOps lies not⁢ only⁤ in ‍its ability to shape the futu
 
 So, take the plunge, ⁤embrace the ‌transformative power of DevOps, and unlock your brilliance ⁢with AI Core's boot camp. Together, ‌let's revolutionize the way software ⁢development ⁣and‍ operations thrive in this ever-evolving world of technology. ‌The possibilities are endless, and the journey ‍starts now.
 
-You can find them by visiting AiCore - [https://theaicore.com](theaicore.com)
+You can find them by visiting AiCore - [theaicore.com](https://theaicore.com)
